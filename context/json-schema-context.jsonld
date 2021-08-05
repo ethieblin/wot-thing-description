@@ -127,8 +127,7 @@
       "@index": "jsonschema:propertyName"
     },
     "unit": {
-      "@id" : "schema:unitCode",
-      "@type": "@vocab"
+      "@id" : "schema:unitCode"
     }
   }
 }
